@@ -1,4 +1,4 @@
-Forwardslash Bookmarks Collection
+Bookmarks Collection
 =======================================
 
 ## Mobile Apps Development
